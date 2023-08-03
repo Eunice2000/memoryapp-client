@@ -48,3 +48,4 @@ jobs:
             sudo systemctl stop nginx
             sudo systemctl kill nginx || true
             sudo systemctl start nginx
+            
